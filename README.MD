@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/1.png"
     width="300"
 />
 </p>
@@ -23,22 +23,20 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/Podcast Final.MP3" controls title="Podcast Final"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Canvas](https://https://www.canva.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -46,54 +44,62 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Canvas para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 📚 Materiais
+## 🛠️ Execução
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- Roteiro gerado via chatgpt:
 
+Prompt: você é um roteirista de poadcast e vamos criar um poadcast com dicas de exercícios de yoga, relaxamento e saúde para quem trabalha em home office, para o público bancário, que seja divertido
 
-## 🛠️ Instruções de execução
+o formato do roteiro deve ser:
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+[INTRODUÇÃO]
+[DICA 1]
+[DICA 2]
+[DICA 3]
+[FINALIZAÇÃO]
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+no bloco [INTRODUÇÃO] substitua por uma introdução igual a de um youtuber de yoga
+no bloco [DICA 1] substitua por uma dica de saúde
+no bloco [DICA 2] substitua por uma dica de relaxamento
+no bloco [DICA 3] substitua por um exercício de yoga
+no bloco [FINALIZAÇÃO] substitua por uma despedida zen com o final "Eu sou sua mentora zen e te espero para novas respirações"
 
-## 👨‍💻 Expert
+use termos simples e divertidos
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+o poadcast deve ser curto
 
----
+{REGRAS NEGATIVAS}
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+não use a expressão "Namaste"
+
+não ultrapasse cinco minutos de duração
+
+Resposta:
+Roteiro para Podcast: Yoga e Saúde no Home Office – Público Bancário
+
+[INTRODUÇÃO]
+"Oi, tudo bem? Seja bem-vindo ao nosso momento de pausa! Eu sou sua mentora zen, e hoje vou te ajudar a encontrar equilíbrio entre boletos, reuniões e aquele relatório que parece infinito. Aqui é o seu espaço de respiro, saúde e um pouquinho de movimento pra quebrar a rotina do home office. Bora começar?"
+
+[DICA 1 – Saúde]
+"Primeiro, vamos falar de hidratação. Parece básico, mas a maioria das pessoas esquece de tomar água enquanto trabalha. Que tal usar aquele copo bonito que tá guardado no armário? Coloque ao lado do computador e beba água a cada hora. Ah, e se quiser dar um toque especial, adicione umas fatias de limão ou um galhinho de hortelã pra dar aquele charme!"
+
+[DICA 2 – Relaxamento]
+"Agora é hora de relaxar os ombros, porque home office sempre acaba transformando a gente em estátua! Solte o mouse por um minutinho. Feche os olhos, inspire profundamente pelo nariz e solte o ar pela boca, como se estivesse soprando pra apagar uma vela. Faça isso três vezes e perceba como seu corpo fica mais leve. É o tipo de reset rápido que te salva depois daquela reunião tensa!"
+
+[DICA 3 – Yoga]
+"Vamos para um exercício simples de yoga, perfeito pra quem tá sentado o dia todo. Chama-se 'Torção Sentada'. Sente-se com as costas eretas, plante os pés no chão e coloque a mão direita sobre o joelho esquerdo. A mão esquerda vai pra trás, apoiando no encosto da cadeira. Agora, vire o tronco devagar para a esquerda, como se quisesse olhar pra trás. Segure a posição por alguns segundos, respirando fundo. Depois, troque o lado. Essa torção ajuda a soltar as tensões na coluna e melhora a circulação. Tá aprovado, hein?"
+
+[FINALIZAÇÃO]
+"Por hoje é só, mas lembre-se: cada pausa é um presente pra sua mente e pro seu corpo. Cuide de você como você cuida das suas metas e planilhas. Eu sou sua mentora zen e te espero para novas respirações. Até a próxima!"
+
+- Canvas para gerar capas:
+
+Prompt: crie uma imagem de uma pessoa fazendo yoga no seu intervalo, trabalhando de home office
+
+- Capcut para tratar aúdio e adicionar sons de fundo
+
+Música: Piano. Lofi. Calm Down. Break. Park
+Efeito: A relaxing environmetal sound of birds singing in the forest
