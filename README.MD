@@ -27,11 +27,11 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
-## ✨ Como foi feito ?
+## ✨ Como foi feito?
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Canvas para gerar capas
+- Roteiro gerado via ChatGPT
+- Áudio gerado no ElevenLabs
+- Canvas para gerar a capa
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 🛠️ Execução
@@ -43,9 +43,13 @@ Prompt: você é um roteirista de poadcast e vamos criar um poadcast com dicas d
 o formato do roteiro deve ser:
 
 [INTRODUÇÃO]
+
 [DICA 1]
+
 [DICA 2]
+
 [DICA 3]
+
 [FINALIZAÇÃO]
 
 no bloco [INTRODUÇÃO] substitua por uma introdução igual a de um youtuber de yoga
