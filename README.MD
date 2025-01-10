@@ -53,9 +53,13 @@ o formato do roteiro deve ser:
 [FINALIZAÇÃO]
 
 no bloco [INTRODUÇÃO] substitua por uma introdução igual a de um youtuber de yoga
+
 no bloco [DICA 1] substitua por uma dica de saúde
+
 no bloco [DICA 2] substitua por uma dica de relaxamento
+
 no bloco [DICA 3] substitua por um exercício de yoga
+
 no bloco [FINALIZAÇÃO] substitua por uma despedida zen com o final "Eu sou sua mentora zen e te espero para novas respirações"
 
 use termos simples e divertidos
@@ -69,6 +73,7 @@ não use a expressão "Namaste"
 não ultrapasse cinco minutos de duração
 
 Resposta:
+
 Roteiro para Podcast: Yoga e Saúde no Home Office – Público Bancário
 
 [INTRODUÇÃO]
@@ -93,4 +98,5 @@ Prompt: crie uma imagem de uma pessoa fazendo yoga no seu intervalo, trabalhando
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 Música: Piano. Lofi. Calm Down. Break. Park
+
 Efeito: A relaxing environmetal sound of birds singing in the forest
