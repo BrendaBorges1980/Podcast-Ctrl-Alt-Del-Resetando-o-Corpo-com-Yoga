@@ -36,7 +36,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Execução
 
-- Roteiro gerado via chatgpt:
+- Roteiro gerado via ChatGPT:
 
 Prompt: você é um roteirista de poadcast e vamos criar um poadcast com dicas de exercícios de yoga, relaxamento e saúde para quem trabalha em home office, para o público bancário, que seja divertido
 
