@@ -13,7 +13,7 @@
     <audio src="output/Podcast Final.MP3" controls title="Podcast Final"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+# Projeto Podcast Gerado por IA
 
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
